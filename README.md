@@ -105,6 +105,13 @@ func main() {
 }
 ```
 
-### License
+## Contribution
+Let me know your utils or feel free to suggest any kind of improvements, refactorings. Just file an
+issue, fork and submit a pull request.
 
-srand is available under the MIT license.
+## Get in touch
+
+Tobias Schmid, toashd@gmail.com, [@toashd](http://twitter.com/toashd), [toashd.com](http://toashd.com)
+
+### License
+srand is available under the MIT license. See the LICENSE file for more info.
