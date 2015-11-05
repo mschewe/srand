@@ -2,6 +2,7 @@
 
 srand contains utility and convenience functions for working with secure randoms.
 
+[![GoDoc](https://godoc.org/github.com/toashd/srand?status.svg)](https://godoc.org/github.com/toashd/srand)
 [![BuildStatus](https://travis-ci.org/toashd/srand.svg)](https://travis-ci.org/toashd/srand)
 
 ### Description
